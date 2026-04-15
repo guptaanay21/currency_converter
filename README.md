@@ -27,4 +27,4 @@ The program fetches live exchange rate data from an API and allows the user to:
 - Provide required inputs (currency codes, amount)
 - Get instant conversion results
 
-git clone https://github.com/your-username/currency-converter.git
+git clone https://github.com/guptaanay21/currency-converter.gi
